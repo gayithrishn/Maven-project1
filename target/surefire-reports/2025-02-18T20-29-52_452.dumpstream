@@ -1,0 +1,5 @@
+# Created at 2025-02-18T20:29:53.917
+Boot Manifest-JAR contains absolute paths in classpath 'E:\maven_practice1\passport-app\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
